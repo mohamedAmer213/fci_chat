@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851534094288",
+    "firebase_url": "https://fcichat-e506e.firebaseio.com",
+    "project_id": "fcichat-e506e",
+    "storage_bucket": "fcichat-e506e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851534094288:android:c8819ef84b3b3b3a9863d5",
+        "android_client_info": {
+          "package_name": "com.example.fci_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851534094288-dph139hh9jsp9seuafkljmro1ldsnsiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhb_n162Odgu3olDntF5j7goydGzAH6Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851534094288-dph139hh9jsp9seuafkljmro1ldsnsiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
